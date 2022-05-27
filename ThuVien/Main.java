@@ -83,9 +83,10 @@ public class Main {
                 t = false;
                 break;
             }
-            if (t) {
+           
+            } if (t) {
                 System.out.println("Khong co tap chi ten  " + tenTc + " trong danh sach cac an pham");
-            }
+               
         }
 
     }
